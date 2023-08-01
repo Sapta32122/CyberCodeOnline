@@ -49,7 +49,7 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Silakan masukkan motto geng mu",
+ 	 	 	 	 	 	"trans": "Silahkan masukkan motto geng mu",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -257,7 +257,7 @@
  	 	 	 	 	"eng": "Upgrade Vault"
  	 	 	 	},
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "Meningkatkan",
+ 	 	 	 	 	"trans": "Tingkatkan",
  	 	 	 	 	"eng": "Upgrade"
  	 	 	 	}
  	 	 	},
@@ -282,7 +282,7 @@
  	 	 	 	},
  	 	 	 	"tertiary": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Penghancur.",
+ 	 	 	 	 	 	"trans": "Menghancurkan.",
  	 	 	 	 	 	"eng": "Destruct."
  	 	 	 	 	}
  	 	 	 	}
@@ -308,7 +308,7 @@
  	 	},
  	 	"chat": {
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "Menyambungkan Koneksi",
+ 	 	 	 	"trans": "Menyambungkan Kembali Koneksi",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"notAtBottom": {
@@ -437,7 +437,7 @@
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
- 	 	 	 	"trans": "Kesalahan kritis: Sambungan Neural Putus",
+ 	 	 	 	"trans": "Kesalahan kritis: Sambungan Neural Terputus",
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
@@ -471,7 +471,7 @@
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Lengkap",
+ 	 	 	 	"trans": "Dipakai",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
@@ -511,7 +511,7 @@
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Papan peringkat",
+ 	 	 	 	"trans": "Papan Peringkat",
  	 	 	 	"eng": "Leaderboard"
  	 	 	},
  	 	 	"tutorial": {
@@ -585,13 +585,13 @@
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "Tekan lama untuk memilh lebih dari satu barang",
+ 	 	 	 	"trans": "Tekan lama untuk memilh lebih dari satu",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
  	 	"inventory": {
  	 	 	"items": {
- 	 	 	 	"trans": "barang",
+ 	 	 	 	"trans": "barang-barang",
  	 	 	 	"eng": "items"
  	 	 	},
  	 	 	"secretKeys": {
@@ -600,7 +600,7 @@
  	 	 	},
  	 	 	"autoScrap": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Scrap Otomatis",
+ 	 	 	 	 	"trans": "Bongkar Otomatis",
  	 	 	 	 	"eng": "Auto Scrap"
  	 	 	 	}
  	 	 	},
@@ -613,7 +613,7 @@
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"itemInbox": {
- 	 	 	 	"trans": "Kotak Masuk Item",
+ 	 	 	 	"trans": "Kotak Masuk Barang",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"crafting": {
@@ -642,7 +642,7 @@
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"instruction": {
- 	 	 	 	 	"trans": "Item ini rusak, bawa ke Toko Senjata untuk diperbaiki",
+ 	 	 	 	 	"trans": "Ini adalah item rusak, bawa ke Toko Senjata untuk diperbaiki",
  	 	 	 	 	"eng": "This item is broken, bring it to Weapon Smith for repair"
  	 	 	 	}
  	 	 	},
@@ -663,11 +663,11 @@
  	 	 	 	},
  	 	 	 	"lock": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Item kunci?",
+ 	 	 	 	 	 	"trans": "Mengunci Barang?",
  	 	 	 	 	 	"eng": "Lock item?"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Anda dapat mencegah pengikisan atau menjual barang ini secara tidak sengaja dengan menguncinya.",
+ 	 	 	 	 	 	"trans": "Anda dapat mencegah membongkar atau menjual barang ini secara tidak sengaja dengan cara menguncinya.",
  	 	 	 	 	 	"eng": "You can prevent accidentally scraping or selling this item by locking it."
  	 	 	 	 	}
  	 	 	 	}
@@ -681,7 +681,7 @@
  	 	 	 	"eng": "Unlocked"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Upgrade",
+ 	 	 	 	"trans": "tingkatkan slot ${index}",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
@@ -707,7 +707,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"currentAction"
  	 	 	 	],
- 	 	 	 	"trans": "Kamu tidak dapat mencetak peralatan saat ${currentAction}",
+ 	 	 	 	"trans": "Kamu tidak dapat mencetak peralatan saat sedang ${currentAction}",
  	 	 	 	"eng": "You can't print equipment while ${currentAction}"
  	 	 	},
  	 	 	"printCache": {
@@ -715,7 +715,7 @@
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Ubah cache ini menjadi barang senjata atau peralatan yang Kamu bisa uae.",
+ 	 	 	 	"trans": "Ubah cache ini menjadi senjata atau peralatan yang bisa kamu pakai.",
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can use."
  	 	 	},
  	 	 	"openContainer": {
@@ -723,11 +723,11 @@
  	 	 	 	"eng": "Unlock Container"
  	 	 	},
  	 	 	"cantOpenContainerNotIdleV2": {
- 	 	 	 	"trans": "Anda tidak dapat membuka kunci kontainer saat ini",
+ 	 	 	 	"trans": "Anda tidak dapat membuka kontainer saat ini",
  	 	 	 	"eng": "You cannot unlock containers right now"
  	 	 	},
  	 	 	"openRedEnvelop": {
- 	 	 	 	"trans": "Membuka",
+ 	 	 	 	"trans": "Buka",
  	 	 	 	"eng": "Open"
  	 	 	},
  	 	 	"cannotOpenRedEnvelopNotIdle": {
@@ -752,11 +752,11 @@
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Apakah Anda yakin ingin reset pabrik?",
+ 	 	 	 	 	 	"trans": "Apakah Anda yakin ingin mengatur ulang?",
  	 	 	 	 	 	"eng": "Are you sure you want to factory reset?"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Dengan mengatur ulang item ini, Anda akan kehilangan semua kalibrasi, namun Anda akan dapat menukarnya dengan pemain lain.",
+ 	 	 	 	 	 	"trans": "Dengan mengatur ulang item ini, Anda akan kehilangan semua kalibrasi, namun Anda akan dapat menjualnya ke pemain lain.",
  	 	 	 	 	 	"eng": "By resetting this item, you will lose all calibration, however you will be able to trade it to other players."
  	 	 	 	 	}
  	 	 	 	},
@@ -765,7 +765,7 @@
  	 	 	},
  	 	 	"noItem": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Kamu tidak lagi memiliki item ini",
+ 	 	 	 	 	"trans": "Kamu tidak lagi memiliki barang ini",
  	 	 	 	 	"eng": "You no longer have this item"
  	 	 	 	},
  	 	 	 	"description": {
@@ -809,7 +809,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Lebih banyak interaksi dapat dibuka di lokasi ini, naikkan tingkat untuk membuka kunci mereka.",
+ 	 	 	 	"trans": "${hiddenCount} Lebih banyak interaksi dapat dibuka di lokasi ini, naikkan tingkat untuk membuka.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -823,7 +823,7 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Ini belum bisa dibuka, coba naikkan tingkatanmu",
+ 	 	 	 	"trans": "Ini belum terbuka, coba naikkan tingkatanmu",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
@@ -834,7 +834,7 @@
  	 	 	 	"eng": " Repair all items for (${repairFee} Bitcoin)"
  	 	 	},
  	 	 	"notAvailable": {
- 	 	 	 	"trans": "NPC ini saat ini tidak tersedia",
+ 	 	 	 	"trans": " NPC ini tidak tersedia saat ini",
  	 	 	 	"eng": "This NPC is currently not available"
  	 	 	},
  	 	 	"unlockContainerButton": {
@@ -849,11 +849,11 @@
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"level"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "level cetak ${level} Peralatan",
+ 	 	 	 	 	 	"trans": "level mencetak ${level} Peralatan",
  	 	 	 	 	 	"eng": "printing level ${level} equipments"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Peralatan pencetakan didasarkan pada peringkat pencetakanmu, tingkatkan peringkat pencetakanmu dengan mencetak lebih banyak item",
+ 	 	 	 	 	 	"trans": "Peralatan mencetak didasarkan pada peringkat mencetakmu, tingkatkan peringkat mencetakmu dengan mencetak lebih banyak barang",
  	 	 	 	 	 	"eng": "equipment printing is based on your printing rank, level up your printing rank by printing more items"
  	 	 	 	 	}
  	 	 	 	}
@@ -870,7 +870,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "Men-Skip ${skipCount}",
+ 	 	 	 	"trans": "Melewati ${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
@@ -880,7 +880,7 @@
  	 	},
  	 	"playerDetails": {
  	 	 	"alias": {
- 	 	 	 	"trans": "Alias",
+ 	 	 	 	"trans": "Nama Lain",
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
@@ -888,7 +888,7 @@
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
- 	 	 	 	"trans": "Skor Equipment",
+ 	 	 	 	"trans": "Skor Perlengkapan",
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
@@ -948,7 +948,7 @@
  	 	 	 	 	"eng": "Permissions"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
- 	 	 	 	 	"trans": "Memindahkan Kepemimpinan",
+ 	 	 	 	 	"trans": "pindahkan Kepemimpinan",
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	}
  	 	 	},
@@ -994,7 +994,7 @@
  	 	 	 	 	"eng": "Report Player"
  	 	 	 	},
  	 	 	 	"block": {
- 	 	 	 	 	"trans": "BLOCK Player",
+ 	 	 	 	 	"trans": "Blokir pemain",
  	 	 	 	 	"eng": "Block Player"
  	 	 	 	}
  	 	 	},
@@ -1030,17 +1030,17 @@
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "tidak terdeteksi ERROR",
+ 	 	 	 	 	"trans": "tidak ada kesalahan yang terdeteksi",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Yakin akan meninggalkan dungeon ini?",
+ 	 	 	 	 	"trans": "Apa Anda yakin akan meninggalkan dungeon ini?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "kamu tidak akan dapat masuk dungeon ini lagi",
+ 	 	 	 	 	"trans": "Anda tidak akan dapat masuk dungeon ini lagi",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1064,7 +1064,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Tambahkan ruang menjadi ${nextSlotSize}",
+ 	 	 	 	"trans": "Tingkatkan slot menjadi ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	},
  	 	 	"increaseSlotDescription": {
@@ -1119,7 +1119,7 @@
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"syncing": {
- 	 	 	 	"trans": "Sinkronisasi",
+ 	 	 	 	"trans": "Menyinkronkan",
  	 	 	 	"eng": "Syncing"
  	 	 	},
  	 	 	"incompleteError": {
@@ -1147,11 +1147,11 @@
  	 	 	 	}
  	 	 	},
  	 	 	"abortWarningTitle": {
- 	 	 	 	"trans": "Apakah Kamu yakin ingin membatalkan?",
+ 	 	 	 	"trans": "Apakah Anda yakin ingin membatalkan?",
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	},
  	 	 	"abortWarning": {
- 	 	 	 	"trans": "Dengan menggabungkan ini Kamu tidak akan menerima hadiah apapun dan bahan yang digunakan tidak akan dikembalikan",
+ 	 	 	 	"trans": "Dengan menggabungkan ini Anda tidak akan menerima hadiah apapun dan bahan yang digunakan tidak akan dikembalikan",
  	 	 	 	"eng": "By aborting this you won\\'t receive any reward and the material used won\\'t be returned"
  	 	 	}
  	 	},
@@ -1181,11 +1181,11 @@
  	 	 	 	},
  	 	 	 	"printingTooLow": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Tingkatkan Percetakan Peringkat",
+ 	 	 	 	 	 	"trans": "Tingkatkan Peringkat Mencetak",
  	 	 	 	 	 	"eng": "Improve Printing Rank"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Percetakan peringkat menentukan Level item yang Kamu cetak. Dapatkan Printing Exp dengan Print & Jual di Pasar Hitam",
+ 	 	 	 	 	 	"trans": "Peringkat Mencetak menentukan Level item yang Kamu cetak. Dapatkan EXP Mencetak dengan Print & Jual di Pasar Hitam",
  	 	 	 	 	 	"eng": "Printing Rank determines the level of item you print. Gain printing exp by print & sell in Black Market"
  	 	 	 	 	}
  	 	 	 	},
@@ -1195,7 +1195,7 @@
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Peralatan Kamu saat ini tampaknya ketinggalan jabatan untuk levelmu, coba Print yang lebih kuat untuk menggantinya",
+ 	 	 	 	 	 	"trans": "Peralatan Kamu saat ini tampaknya agak kurang untuk levelmu, coba Print yang lebih kuat untuk menggantinya",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
@@ -1208,33 +1208,33 @@
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"itemName"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "Kamu dapat memutakhirkan peralatanmu dengan menggunakan ${itemName}",
+ 	 	 	 	 	 	"trans": "Kamu dapat meningkatkan peralatanmu dengan menggunakan ${itemName}",
  	 	 	 	 	 	"eng": "You can upgrade your equipment by using the ${itemName}"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"aiCore": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Gunakan AI CORN",
+ 	 	 	 	 	 	"trans": "Gunakan Inti AI",
  	 	 	 	 	 	"eng": "Use AI Core"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Sepertinya Kamu memiliki beberapa inti AI, menggunakannya untuk melakukan level afk otomatis di area Level yang sesuai.",
+ 	 	 	 	 	 	"trans": "Sepertinya Kamu memiliki beberapa inti AI, gunakan untuk melakukan afk leveling secara otomatis di area Level yang sesuai.",
  	 	 	 	 	 	"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"noAiCore": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Dapatkan AI Core",
+ 	 	 	 	 	 	"trans": "Dapatkan Inti AI",
  	 	 	 	 	 	"eng": "Acquire AI Cores"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Kamu mungkin mendapatkan inti ai dengan: \n         - Bergaul di berbagai lokasi \n         - Kerajinan dengan prosesor hash dan memo teknologi \n         - Menjarah dari musuh di semua lokasi",
+ 	 	 	 	 	 	"trans": "Kamu mungkin mendapatkan Inti AI dengan: \r\n         - Bergaul di berbagai lokasi \r\n         - Membuat kerajinan dengan prosesor hash dan memo teknologi \r\n         - Menjarah musuh di semua lokasi",
  	 	 	 	 	 	"eng": "You may get AI Cores by: \r\n        - Scavenge in various locations\r\n        - Crafting with Hash Processors and Tech Scraps\r\n        - Looting from enemies in all locations"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"common": {
  	 	 	 	 	"clickToOpen": {
- 	 	 	 	 	 	"trans": "Klik untuk membuka",
+ 	 	 	 	 	 	"trans": "Tekan untuk membuka",
  	 	 	 	 	 	"eng": "click to open"
  	 	 	 	 	}
  	 	 	 	}
@@ -1250,17 +1250,17 @@
  	 	 	 	 	 	"eng": "Cyberspace breach in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Bergabunglah dengan dengan netrunner lain untuk menembus benteng SL-Data untuk memberikan semua pemain buff",
+ 	 	 	 	 	 	"trans": "Bergabunglah dengan dengan para Netrunner lain untuk menerobos benteng SL-Data untuk memberikan semua pemain buff",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"completeBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Operasi penembusan selesai",
+ 	 	 	 	 	 	"trans": "Operasi peretasan selesai",
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Menyebarkan eksploit jarak jauh, harap tunggu ...",
+ 	 	 	 	 	 	"trans": "Meneraokan eksploitasi jarak jauh, harap tunggu ...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1334,14 +1334,14 @@
  	 	},
  	 	"travel": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Kamu belum membuka kunci area ini",
+ 	 	 	 	"trans": "Kamu belum membuka area ini",
  	 	 	 	"eng": "You have not unlocked this area yet"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "sistem menganggur",
+ 	 	 	 	 	"trans": "sistem tidak berjalan",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -1355,7 +1355,7 @@
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih jumlah",
+ 	 	 	 	 	"trans": "Silahkan pilih jumlah",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -1378,11 +1378,11 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Anda yakin ingin memilih ${itemName}?",
+ 	 	 	 	 	"trans": "Apakah Anda yakin ingin memilih ${itemName}?",
  	 	 	 	 	"eng": "Are you sure you want to select ${itemName}?"
  	 	 	 	},
  	 	 	 	"confirmText": {
- 	 	 	 	 	"trans": "saya yakin",
+ 	 	 	 	 	"trans": "Saya yakin",
  	 	 	 	 	"eng": "I am sure"
  	 	 	 	}
  	 	 	}
@@ -1393,7 +1393,7 @@
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"langGithub": {
- 	 	 	 	"trans": "Bantu terjemahkan game ini ;)",
+ 	 	 	 	"trans": "Bantu dengan menerjemahkan game ini ;)",
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"language": {
@@ -1440,13 +1440,13 @@
  	 	 	 	 	"eng": "Hide NPC"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Sembunyikan seni NPC di layar",
+ 	 	 	 	 	"trans": "Sembunyikan gambar NPC di layar",
  	 	 	 	 	"eng": "Hide NPC art on screen"
  	 	 	 	}
  	 	 	},
  	 	 	"disableSkipRespectNoti": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Nonaktifkan Pemberitahuan Skip Respect",
+ 	 	 	 	 	"trans": "Nonaktifkan Lewati Pemberitahuan Rasa Hormat",
  	 	 	 	 	"eng": "Disable Skip Respect Notification"
  	 	 	 	}
  	 	 	},
@@ -1485,11 +1485,11 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dangerZone": {
- 	 	 	 	"trans": "Daerah Bahaya",
+ 	 	 	 	"trans": "Daerah Berbahaya",
  	 	 	 	"eng": "Danger Zone"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "Aplikasi akan merestart sendiri setelah tersimpan",
+ 	 	 	 	"trans": "Aplikasi akan memulai ulang setelah tersimpan",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
@@ -1500,13 +1500,13 @@
  	 	"rangeSelector": {
  	 	 	"selectMaxValue": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih Maks Nilai",
+ 	 	 	 	 	"trans": "Pilih nilai maksimum",
  	 	 	 	 	"eng": "Select max value"
  	 	 	 	}
  	 	 	},
  	 	 	"selectMinValue": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih Min Nilai",
+ 	 	 	 	 	"trans": "Pilih nilai minimum",
  	 	 	 	 	"eng": "Select min value"
  	 	 	 	}
  	 	 	}
@@ -1514,14 +1514,14 @@
  	 	"richInput": {
  	 	 	"searchOfflineSearchbox": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Cari semua pemain",
+ 	 	 	 	 	"trans": "Cari seluruh pemain",
  	 	 	 	 	"eng": "Search all players"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"job": {
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Kamu membutuhkan setidaknya Level 2 untuk mengakses Hub Pekerjaan",
+ 	 	 	 	"trans": "Kamu membutuhkan setidaknya Level 2 untuk mengakses pusat pekerjaan",
  	 	 	 	"eng": "You need to be at least level 2 to access the job hub"
  	 	 	}
  	 	},
